@@ -11,8 +11,8 @@ Each project demonstrates practical applications of these tools to solve real-wo
 
 ## Table of Contents
 
-- [Excel Projects](#excel-projects)
-- [SQL Projects](#sql-projects)
+- [Excel Projects]
+- [SQL Projects]
   - [SQL-Olympic-Data Repository](https://github.com/mia-troiano/SQL-Olympic-Data)
-- [Power BI Projects](#power-bi-projects)
-- [More Coming Soon](#more-coming-soon)
+- [Power BI Projects]
+- [More Coming Soon]
