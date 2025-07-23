@@ -22,7 +22,7 @@ I hold certifications in:
 ## **Table of Contents**  
 - **Excel Projects**  
 - **SQL Projects**  
-  - [SQL-Olympic-Data Repository](#)  
+  - [SQL-Olympic-Data Repository](https://github.com/mia-troiano/SQL-Olympic-Data) 
 - **Power BI Projects**  
 - **More Coming Soon**  
 
