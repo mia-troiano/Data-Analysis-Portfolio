@@ -2,7 +2,7 @@
 
 Welcome to my Data Analysis Portfolio!  
 
-I am **Mia Troiano**, a **licensed Physical Therapist (DPT)** transitioning into **healthcare data analytics**. My goal is to leverage my **clinical expertise and analytical skills** to drive data-informed decision-making and improve healthcare outcomes.  
+**I am Mia Troiano**, a licensed Physical Therapist (DPT) transitioning into **data analytics**. I leverage my **clinical expertise**, **analytical skills**, and **strong communication abilities** to translate complex data into actionable insights that drive informed decisions and meaningful outcomes.
 
 This repository showcases a range of projects using various data analysis tools and methods, including:  
 
