@@ -20,7 +20,8 @@ I hold certifications in:
 ---
 
 ## **Table of Contents**  
-- **Excel Projects**  
+- **Excel Projects**
+  - [Clinical Performance Dashboard Repository](https://github.com/mia-troiano/Clinical-Performance-Dashboard)    
 - **SQL Projects**  
   - [SQL-Olympic-Data Repository](https://github.com/mia-troiano/SQL-Olympic-Data) 
 - **Power BI Projects**  
